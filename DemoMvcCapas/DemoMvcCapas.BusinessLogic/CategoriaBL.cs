@@ -17,9 +17,9 @@ namespace DemoMvcCapas.BusinessLogic
             return categoriaDA.GetAll();
         }
 
-        public bool Delete(CategoriaBE entity)
+        public bool Delete(int id)
         {
-            return categoriaDA.Delete(entity);
+            return categoriaDA.Delete(id);
         }
 
         public CategoriaBE Get(int id)

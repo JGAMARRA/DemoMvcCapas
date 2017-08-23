@@ -35,6 +35,12 @@ C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.Web\bin\Syste
 C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.Web\bin\System.Web.WebPages.Razor.xml
 C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.Web\bin\Antlr3.Runtime.pdb
 C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.Web\bin\Newtonsoft.Json.xml
-C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.Web\obj\Debug\DemoMvcCapas.Web.csprojResolveAssemblyReference.cache
 C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.Web\obj\Debug\DemoMvcCapas.Web.dll
 C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.Web\obj\Debug\DemoMvcCapas.Web.pdb
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.Web\obj\Debug\DemoMvcCapas.Web.csprojResolveAssemblyReference.cache
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.Web\bin\DemoMvcCapas.BusinessEntities.dll
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.Web\bin\DemoMvcCapas.BusinessLogic.dll
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.Web\bin\DemoMvcCapas.DataAccess.dll
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.Web\bin\DemoMvcCapas.BusinessEntities.pdb
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.Web\bin\DemoMvcCapas.BusinessLogic.pdb
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.Web\bin\DemoMvcCapas.DataAccess.pdb

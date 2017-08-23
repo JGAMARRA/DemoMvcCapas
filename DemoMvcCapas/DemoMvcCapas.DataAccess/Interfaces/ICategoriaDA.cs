@@ -13,7 +13,7 @@ namespace DemoMvcCapas.DataAccess.Interfaces
         CategoriaBE Get(int id);
         bool Insert(CategoriaBE entity);
         bool Update(CategoriaBE entity);
-        bool Delete(CategoriaBE entity);
+        bool Delete(int id);
 
     }
 }

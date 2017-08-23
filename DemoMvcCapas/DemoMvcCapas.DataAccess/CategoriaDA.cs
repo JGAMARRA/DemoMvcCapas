@@ -15,14 +15,14 @@ namespace DemoMvcCapas.DataAccess
     {
         string connectionString = ConfigurationManager.ConnectionStrings["CnDatabase"].ConnectionString;
 
-        public bool Delete(CategoriaBE entity)
+        public bool Delete(int id)
         {
             using (SqlConnection cn = new SqlConnection(connectionString))
             {
-                string sql = "Delete Categoria where IdCategoria=@IdCategoria)";
+                string sql = "Delete Categoria Where IdCategoria = @IdCategoria";
                 using (SqlCommand cmd = new SqlCommand(sql, cn))
                 {
-                    cmd.Parameters.AddWithValue("@IdCategoria", entity.IdCategoria);            
+                    cmd.Parameters.AddWithValue("@IdCategoria", id);            
                     cmd.CommandType = CommandType.Text;
                     cn.Open();
                     int execute = cmd.ExecuteNonQuery();
@@ -36,10 +36,11 @@ namespace DemoMvcCapas.DataAccess
             CategoriaBE entity = new CategoriaBE();
             using (SqlConnection cn = new SqlConnection(connectionString))
             {
-                string sql = "Select IdCategoria, Nombre, Descripcion from Categoria Order By IdCategoria";
+                string sql = "Select IdCategoria, Nombre, Descripcion from Categoria Where IdCategoria = @IdCategoria";
                 using (SqlCommand cmd = new SqlCommand(sql, cn))
                 {
                     cmd.CommandType = CommandType.Text;
+                    cmd.Parameters.AddWithValue("@IdCategoria", id);
                     cn.Open();
                     SqlDataReader dr = cmd.ExecuteReader();
                     if(dr.Read())
@@ -85,7 +86,7 @@ namespace DemoMvcCapas.DataAccess
         {
             using (SqlConnection cn = new SqlConnection(connectionString))
             {
-                string sql = "Inser Into Categoria (Nombre, Descripcion) Values (@Nombre, @Descripcion)";
+                string sql = "Insert Into Categoria (Nombre, Descripcion) Values (@Nombre, @Descripcion)";
                 using (SqlCommand cmd = new SqlCommand(sql, cn))
                 {
                     cmd.Parameters.AddWithValue("@Nombre", entity.Nombre);
@@ -102,7 +103,7 @@ namespace DemoMvcCapas.DataAccess
         {
             using (SqlConnection cn = new SqlConnection(connectionString))
             {
-                string sql = "Update Categoria set Nombre=@Nombre, Descripcion=@Descripcion where IdCategoria=@IdCategoria)";
+                string sql = "Update Categoria Set Nombre = @Nombre, Descripcion = @Descripcion Where IdCategoria = @IdCategoria";
                 using (SqlCommand cmd = new SqlCommand(sql, cn))
                 {
                     cmd.Parameters.AddWithValue("@IdCategoria", entity.IdCategoria);
