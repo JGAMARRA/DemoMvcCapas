@@ -1,0 +1,4 @@
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.BusinessEntities\bin\Debug\DemoMvcCapas.BusinessEntities.dll
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.BusinessEntities\bin\Debug\DemoMvcCapas.BusinessEntities.pdb
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.BusinessEntities\obj\Debug\DemoMvcCapas.BusinessEntities.dll
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.BusinessEntities\obj\Debug\DemoMvcCapas.BusinessEntities.pdb

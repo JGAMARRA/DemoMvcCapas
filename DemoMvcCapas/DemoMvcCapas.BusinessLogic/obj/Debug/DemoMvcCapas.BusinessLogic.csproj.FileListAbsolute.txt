@@ -1,0 +1,9 @@
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.BusinessLogic\bin\Debug\DemoMvcCapas.BusinessLogic.dll
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.BusinessLogic\bin\Debug\DemoMvcCapas.BusinessLogic.pdb
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.BusinessLogic\obj\Debug\DemoMvcCapas.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.BusinessLogic\obj\Debug\DemoMvcCapas.BusinessLogic.dll
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.BusinessLogic\obj\Debug\DemoMvcCapas.BusinessLogic.pdb
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.BusinessLogic\bin\Debug\DemoMvcCapas.BusinessEntities.dll
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.BusinessLogic\bin\Debug\DemoMvcCapas.DataAccess.dll
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.BusinessLogic\bin\Debug\DemoMvcCapas.BusinessEntities.pdb
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.BusinessLogic\bin\Debug\DemoMvcCapas.DataAccess.pdb

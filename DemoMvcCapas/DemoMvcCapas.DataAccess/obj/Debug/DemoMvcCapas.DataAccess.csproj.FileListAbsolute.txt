@@ -1,0 +1,7 @@
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.DataAccess\bin\Debug\DemoMvcCapas.DataAccess.dll
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.DataAccess\bin\Debug\DemoMvcCapas.DataAccess.pdb
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.DataAccess\obj\Debug\DemoMvcCapas.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.DataAccess\obj\Debug\DemoMvcCapas.DataAccess.dll
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.DataAccess\obj\Debug\DemoMvcCapas.DataAccess.pdb
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.DataAccess\bin\Debug\DemoMvcCapas.BusinessEntities.dll
+C:\Users\JORGE\Source\Repos\DemoMvcCapas\DemoMvcCapas\DemoMvcCapas.DataAccess\bin\Debug\DemoMvcCapas.BusinessEntities.pdb
